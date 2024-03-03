@@ -1,0 +1,1 @@
+{"uuid":"d49a460a-a304-411a-87d0-fb1b518fb2dd","name":"automationpractice","children":["81a534d1-5354-40f9-8eed-9b307e0b85d5"],"befores":[{"name":"setupdata","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1709472500466,"stop":1709472500592}],"afters":[],"links":[],"start":1709472500430,"stop":1709472507504}
